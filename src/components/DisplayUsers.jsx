@@ -1,4 +1,3 @@
-import React from 'react'
 import { useSelector } from 'react-redux'
 import {MdDeleteForever} from 'react-icons/all.js'
 import { useDispatch } from "react-redux";
